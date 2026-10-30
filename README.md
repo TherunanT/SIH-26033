@@ -86,9 +86,15 @@ AgriNexa aims to create a more efficient agricultural supply chain where farmers
 ## Research and References
 
 Smart India Hackathon – SIH 26033 problem statement.
+
 Ministry of Agriculture & Farmers Welfare: https://agriwelfare.gov.in/
+
 e-NAM – National Agriculture Market: https://www.enam.gov.in/
+
 Python Documentation: https://docs.python.org/3/
+
 Flask Documentation: https://flask.palletsprojects.com/
+
 SQLite Documentation: https://www.sqlite.org/docs.html/
+
 OpenStreetMap: https://www.openstreetmap.org/
