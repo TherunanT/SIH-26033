@@ -40,6 +40,9 @@ Shared delivery to reduce transportation costs.
 Transparent pricing to improve farmer earnings and consumer affordability.
 Order tracking for better coordination.
 
+
+<img width="450" height="600" alt="Screenshot   (66)" src="https://github.com/user-attachments/assets/0509388c-ad51-4ab3-ac13-2d28ea9149f6" />
+
 ## Technical Approach
 
 Technologies to be used:
